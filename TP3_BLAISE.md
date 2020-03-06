@@ -2,6 +2,8 @@
 
 ## Exercice 1. Commandes de base
 
+# TP effectué uniquement par Jean-Baptiste BLAISE  Robin Dérot est avec William Dubosq
+
 Commencez par mettre à jour votre système avec les commandes vues dans le cours.
 Donnez les commandes répondant aux questions suivantes :
 
