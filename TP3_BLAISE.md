@@ -25,6 +25,7 @@ Comment explique-t-on la (petite) différence de comptage ?
 >Cette différence est due au fait que dpkgne gère pas les dépendances.
 
 
+
 3. Combien de paquets sont disponibles en téléchargement ?
 
 
